@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FaceDrawing</label>
+	</settings>
+	<users>
+		<user>
+			<path>FaceDrawing.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FaceDrawing.jcp</path>
+		</project>
+	</projects>
+</workspace>
