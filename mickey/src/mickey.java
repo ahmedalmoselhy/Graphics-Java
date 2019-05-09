@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.applet.*;
-public class mickey extends Applet implements KeyListener{
+public class mickey extends Applet {
         Font Font;
         Color Bgcolor;
          Color flesh;
@@ -13,15 +13,9 @@ public class mickey extends Applet implements KeyListener{
          int v=0;
          
          //@Override
-         public void init (){
-                 Font= new Font("Times", Font.ITALIC, 20);
-                 flesh=new Color(255,218,185);
-                 Bgcolor=(Color.lightGray);  //background color
-                 orange=new Color(255,99,71);
-                 pink=new Color(255,105,180);setBackground(Bgcolor);
-                 addKeyListener(this);
-         }
-         @Override
+         public void init() {
+	}
+         
          public void paint (Graphics g){
                  g.setColor(Color.black);
                  g.fillOval(60+v,50,50,50);
@@ -97,7 +91,7 @@ public class mickey extends Applet implements KeyListener{
                  
          }
  
-         @Override
+         
         public void keyPressed(KeyEvent e) {
                 System.out.println(e.getKeyCode());
                 if(e.getKeyCode()==39){
@@ -112,11 +106,11 @@ public class mickey extends Applet implements KeyListener{
                 }
         }
 
-        @Override
+        
         public void keyReleased(KeyEvent e) {   
         }
 
-        @Override
+        
         public void keyTyped(KeyEvent e) {
         }
         }

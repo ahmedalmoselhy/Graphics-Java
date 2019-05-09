@@ -22,5 +22,8 @@
 		<project>
 			<path>..\mickey\mickey.jcp</path>
 		</project>
+		<project>
+			<path>..\plane\plane.jcp</path>
+		</project>
 	</projects>
 </workspace>

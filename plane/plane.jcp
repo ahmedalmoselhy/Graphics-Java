@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>mickey</label>
+		<label>plane</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>classes\mickey.htm</run>
+			<run/>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -33,13 +33,13 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>classes\mickey.htm</path>
+				<path>classes\plane.htm</path>
 				<folder>classes</folder>
-				<url>classes\mickey.htm</url>
+				<url>classes\plane.htm</url>
 				<browser>true</browser>
 			</fileitem>
 			<fileitem>
-				<path>src\mickey.java</path>
+				<path>src\plane.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
