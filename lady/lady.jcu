@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>clown</label>
+		<label>four_circles_moving_in_aktar</label>
 	</active_project>
 	<projects>
 		<project>
@@ -50,6 +50,18 @@
 			</folderitem>
 			<folderitem>
 				<path>..\fightingplanes\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>four_circles_moving_in_aktar</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\four_circles_moving_in_aktar\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\four_circles_moving_in_aktar\src</path>
 				<dir>src</dir>
 			</folderitem>
 		</project>
@@ -135,13 +147,25 @@
 			<path>..\train\src\train.java</path>
 			<source>true</source>
 			<index>5</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>..\camel\src\camel.java</path>
 			<source>true</source>
 			<index>6</index>
 			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>clown\src\clown.java</path>
+			<source>true</source>
+			<index>7</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\four_circles_moving_in_aktar\src\four_circles_moving_in_aktar.java</path>
+			<source>true</source>
+			<index>8</index>
+			<active>true</active>
 		</docitem>
 	</open_files>
 </workspace_user>

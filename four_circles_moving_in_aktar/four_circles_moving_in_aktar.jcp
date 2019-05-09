@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>clown</label>
+		<label>four_circles_moving_in_aktar</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run/>
+			<run>classes\four_circles_moving_in_aktar.htm</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -33,13 +33,13 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>classes\clown.htm</path>
+				<path>classes\four_circles_moving_in_aktar.htm</path>
 				<folder>classes</folder>
-				<url>classes\clown.htm</url>
+				<url>classes\four_circles_moving_in_aktar.htm</url>
 				<browser>true</browser>
 			</fileitem>
 			<fileitem>
-				<path>src\clown.java</path>
+				<path>src\four_circles_moving_in_aktar.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>

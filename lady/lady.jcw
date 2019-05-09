@@ -23,6 +23,9 @@
 			<path>..\fightingplanes\fightingplanes.jcp</path>
 		</project>
 		<project>
+			<path>..\four_circles_moving_in_aktar\four_circles_moving_in_aktar.jcp</path>
+		</project>
+		<project>
 			<path>lady.jcp</path>
 		</project>
 		<project>
