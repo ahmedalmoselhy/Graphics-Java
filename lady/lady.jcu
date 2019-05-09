@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>train</label>
+		<label>camel</label>
 	</active_project>
 	<projects>
 		<project>
@@ -14,6 +14,18 @@
 			</folderitem>
 			<folderitem>
 				<path>..\ClockGui\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>camel</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\camel\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\camel\src</path>
 				<dir>src</dir>
 			</folderitem>
 		</project>
@@ -105,6 +117,12 @@
 			<path>..\plane\src\plane.java</path>
 			<source>true</source>
 			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\train\src\train.java</path>
+			<source>true</source>
+			<index>5</index>
 			<active>true</active>
 		</docitem>
 	</open_files>
