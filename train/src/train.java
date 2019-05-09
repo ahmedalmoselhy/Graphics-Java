@@ -11,7 +11,7 @@ public class train extends Applet {
 		
 	{
 		int w =this.getWidth();
-		this.setBackground(Color.cyan);
+		this.setBackground(Color.lightGray);
 		
 		g.setColor(Color.darkGray);
 		int []xp={150+x,250+x,250+x,260+x,260+x,300+x,300+x,290+x,290+x,260+x,260+x,250+x,250+x,170+x,170+x,150+x}; // second car
@@ -19,7 +19,7 @@ public class train extends Applet {
 		g.setColor(Color.gray);
 		g.fillPolygon(xp,yp,16); // second car  
 		
-		g.setColor(Color.pink);	
+		g.setColor(Color.orange);	
 		g.fillOval(170+x,80,80,80); // second car wheels
 		g.fillOval(260+x,130,30,30);
 		
@@ -34,7 +34,7 @@ public class train extends Applet {
 		g.setColor(Color.darkGray);
 		g.fillRect(x,40,140,90); // first car 
 		
-		g.setColor(Color.pink);
+		g.setColor(Color.orange);
 		g.fillOval(10+x,130,30,30); // first car wheels
 		g.fillOval(90+x,130,30,30);
 		
