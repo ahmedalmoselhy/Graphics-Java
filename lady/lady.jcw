@@ -17,6 +17,9 @@
 			<path>..\camel\camel.jcp</path>
 		</project>
 		<project>
+			<path>clown\clown.jcp</path>
+		</project>
+		<project>
 			<path>..\fightingplanes\fightingplanes.jcp</path>
 		</project>
 		<project>

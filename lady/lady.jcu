@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>camel</label>
+		<label>clown</label>
 	</active_project>
 	<projects>
 		<project>
@@ -26,6 +26,18 @@
 			</folderitem>
 			<folderitem>
 				<path>..\camel\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>clown</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>clown\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>clown\src</path>
 				<dir>src</dir>
 			</folderitem>
 		</project>
@@ -124,6 +136,12 @@
 			<source>true</source>
 			<index>5</index>
 			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>..\camel\src\camel.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>false</active>
 		</docitem>
 	</open_files>
 </workspace_user>

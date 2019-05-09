@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>camel</label>
+		<label>clown</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>classes\camel.htm</run>
+			<run/>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -33,13 +33,13 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>classes\camel.htm</path>
+				<path>classes\clown.htm</path>
 				<folder>classes</folder>
-				<url>classes\camel.htm</url>
+				<url>classes\clown.htm</url>
 				<browser>true</browser>
 			</fileitem>
 			<fileitem>
-				<path>src\camel.java</path>
+				<path>src\clown.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
