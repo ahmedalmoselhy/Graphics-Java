@@ -2,9 +2,33 @@
 
 <workspace_user>
 	<active_project>
-		<label>lady</label>
+		<label>fightingplanes</label>
 	</active_project>
 	<projects>
+		<project>
+			<label>ClockGui</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\ClockGui\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\ClockGui\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>fightingplanes</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\fightingplanes\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\fightingplanes\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
 		<project>
 			<label>lady</label>
 			<showfiles>false</showfiles>
@@ -16,4 +40,18 @@
 			</folderitem>
 		</project>
 	</projects>
+	<open_files>
+		<docitem>
+			<path>..\ClockGui\src\ClockGui.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\lady.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
 </workspace_user>

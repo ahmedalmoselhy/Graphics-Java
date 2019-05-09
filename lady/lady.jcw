@@ -11,6 +11,12 @@
 	</users>
 	<projects>
 		<project>
+			<path>..\ClockGui\ClockGui.jcp</path>
+		</project>
+		<project>
+			<path>..\fightingplanes\fightingplanes.jcp</path>
+		</project>
+		<project>
 			<path>lady.jcp</path>
 		</project>
 	</projects>

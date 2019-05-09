@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>ClockGui</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>classes\ClockGui.htm</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>classes\ClockGui.htm</path>
+				<folder>classes</folder>
+				<url>classes\ClockGui.htm</url>
+				<browser>true</browser>
+			</fileitem>
+			<fileitem>
+				<path>src\ClockGui.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO Auto-generated constructor stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>50</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>65</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>73</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>142</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>177</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>184</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>196</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>src\ClockGui.java</filepath>
+			<line>212</line>
+			<timestamp>1557409298</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>
