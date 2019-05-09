@@ -25,5 +25,8 @@
 		<project>
 			<path>..\plane\plane.jcp</path>
 		</project>
+		<project>
+			<path>..\train\train.jcp</path>
+		</project>
 	</projects>
 </workspace>

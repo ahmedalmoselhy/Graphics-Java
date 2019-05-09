@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>plane</label>
+		<label>train</label>
 	</active_project>
 	<projects>
 		<project>
@@ -63,6 +63,18 @@
 				<dir>src</dir>
 			</folderitem>
 		</project>
+		<project>
+			<label>train</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\train\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\train\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
 	</projects>
 	<open_files>
 		<docitem>
@@ -87,6 +99,12 @@
 			<path>..\mickey\src\mickey.java</path>
 			<source>true</source>
 			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\plane\src\plane.java</path>
+			<source>true</source>
+			<index>4</index>
 			<active>true</active>
 		</docitem>
 	</open_files>
