@@ -2,19 +2,16 @@
 
 <workspace>
 	<settings>
-		<label>FaceDrawing</label>
+		<label>lady</label>
 	</settings>
 	<users>
 		<user>
-			<path>FaceDrawing.jcu</path>
+			<path>lady.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>FaceDrawing.jcp</path>
-		</project>
-		<project>
-			<path>..\TrainDrawing\TrainDrawing.jcp</path>
+			<path>lady.jcp</path>
 		</project>
 	</projects>
 </workspace>

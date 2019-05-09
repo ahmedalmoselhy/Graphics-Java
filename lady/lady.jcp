@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>FaceDrawing</label>
+		<label>lady</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>classes\FaceDrawing.htm</run>
+			<run/>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -33,13 +33,13 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>classes\FaceDrawing.htm</path>
+				<path>classes\lady.htm</path>
 				<folder>classes</folder>
-				<url>classes\FaceDrawing.htm</url>
+				<url>classes\lady.htm</url>
 				<browser>true</browser>
 			</fileitem>
 			<fileitem>
-				<path>src\FaceDrawing.java</path>
+				<path>src\lady.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
